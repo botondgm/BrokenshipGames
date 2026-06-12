@@ -1,18 +1,35 @@
 [
   {
-    "id": "anyád",
-    "name": "GamesBTW",
+    "id": "the-class-trip",
+    "name": "The Class Trip",
     "version": "1.0.0",
-    "cover": "https://example.com/cover.jpg",
+    "cover": "https://img.itch.zone/aW1nLzI3MjQ0NzQzLnBuZw==/315x250%23c/GIVqww.png",
     "screenshots": [
-      "https://example.com/ss1.jpg",
-      "https://example.com/ss2.jpg"
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY0OS5wbmc=/347x500/WDRM4j.png",
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY1My5wbmc=/347x500/5UexeQ.png",
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY1Mi5wbmc=/347x500/ym%2F%2FFv.png",
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY1MC5wbmc=/347x500/L2UhUI.png",
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY0OC5wbmc=/347x500/7Uptie.png",
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY1MS5wbmc=/347x500/UmrCnZ.png",
+      "https://img.itch.zone/aW1hZ2UvNDU3MTIxOS8yNzMwMDY1OC5wbmc=/347x500/0IqCVQ.png"
     ],
-    "description": "Sci-fi túlélőjáték egy elhagyott űrhajón.",
+    "description": "A school project horror game about a class that goes on a camping trip deep in the forest. What starts as a fun night around the campfire quickly turns into a nightmare when a satanic creature begins hunting the students in the darkness. Explore the woods, survive the night, and protect your classmates before the creature reaches them.",
+    "developer": "BrokenShip",
+    "genre": ["Horror", "Adventure"],
+    "platform": "Windows",
+    "status": "Released",
     "buttons": [
       {
-        "label": "Download Windows",
-        "url": "https://example.com/win"
+        "label": "Get free on Itch.io",
+        "url": "http://brokenship.itch.io/the-class-trip"
+      },
+      {
+        "label": "Google Drive",
+        "url": "https://drive.google.com/file/d/199WR6OMPzEjM3UBE54A0T2Ff1q5kD6Qq/view?usp=drive_link"
+      },
+      {
+        "label": "Play on Itch.io",
+        "url": "http://brokenship.itch.io/the-class-trip"
       }
     ]
   }
