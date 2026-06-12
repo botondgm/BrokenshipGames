@@ -1,0 +1,19 @@
+[
+  {
+    "id": "brokenship-1",
+    "name": "BrokenShip",
+    "version": "1.0.0",
+    "cover": "https://example.com/cover.jpg",
+    "screenshots": [
+      "https://example.com/ss1.jpg",
+      "https://example.com/ss2.jpg"
+    ],
+    "description": "Sci-fi túlélőjáték egy elhagyott űrhajón.",
+    "buttons": [
+      {
+        "label": "Download Windows",
+        "url": "https://example.com/win"
+      }
+    ]
+  }
+]
