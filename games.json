@@ -42,7 +42,7 @@
       "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0OS5wbmc=/347x500/VXwdCD.png",
       "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0NS5wbmc=/347x500/tJyF6z.png"
     ],
-    "description": "-- "ANNA'S TAPE" - Analog Horror, A ghost child's story trapped inside a VHS cassette. 100% procedural - zero external assets, LÖVE2D 11.x (LuaJIT / Lua 5.1 compatible)",
+    "description": "-- ANNA'S TAPE - Analog Horror, A ghost child's story trapped inside a VHS cassette. 100% procedural - zero external assets, LÖVE2D 11.x (LuaJIT / Lua 5.1 compatible)",
     "developer": "BrokenShip",
     "genre": ["Horror", "Analog-Horror"],
     "platform": "Windows",
