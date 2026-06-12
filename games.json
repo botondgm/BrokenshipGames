@@ -28,5 +28,34 @@
         "url": "https://drive.google.com/file/d/199WR6OMPzEjM3UBE54A0T2Ff1q5kD6Qq/view?usp=drive_link"
       }
     ]
+  },
+  
+  "id": "Anna's Tape",
+    "name": "The Class Trip",
+    "version": "Alpha 1.0",
+    "cover": "https://img.itch.zone/aW1nLzI3ODI0NDQzLnBuZw==/315x250%23c/RcwMbm.png",
+    "screenshots": [
+      "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0Ni5wbmc=/347x500/l8gy6F.png",
+      "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0OC5wbmc=/347x500/iXBNGW.png",
+      "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0Ny5wbmc=/347x500/V93Oon.png",
+      "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ1MC5wbmc=/347x500/4mY%2BBV.png",
+      "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0OS5wbmc=/347x500/VXwdCD.png",
+      "https://img.itch.zone/aW1hZ2UvNDY2OTE2Ni8yNzgyNDQ0NS5wbmc=/347x500/tJyF6z.png"
+    ],
+    "description": "-- "ANNA'S TAPE" - Analog Horror
+                    -- A ghost child's story trapped inside a VHS cassette.
+                    -- 100% procedural - zero external assets
+                    -- LÖVE2D 11.x (LuaJIT / Lua 5.1 compatible)
+                  ",
+    "developer": "BrokenShip",
+    "genre": ["Horror", "Analog-Horror"],
+    "platform": "Windows",
+    "status": "Prototype",
+    "buttons": [
+      {
+        "label": "Get free on Itch.io",
+        "url": "https://brokenship.itch.io/annas-tape-alpha"
+      }
+    ]
   }
 ]
